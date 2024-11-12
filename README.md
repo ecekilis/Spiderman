@@ -1,6 +1,3 @@
-# Movie-Webseite
-
-
 Using the website is very simple. navbar and sidebar. with slideing movies makes webseite dynamic and usefull.
 
 <h2>Features</h2>
@@ -18,6 +15,4 @@ Using the website is very simple. navbar and sidebar. with slideing movies makes
 
 ![](movie.gif)
 
-<h4>For Questions</h4>
-
-ecekilis@gmail.com
+# Spiderman
